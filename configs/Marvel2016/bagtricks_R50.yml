@@ -1,0 +1,7 @@
+_BASE_: ../Base-bagtricks.yml
+
+DATASETS:
+  NAMES: ("Marvel2016",)
+  TESTS: ("Marvel2016",)
+
+OUTPUT_DIR: logs/marvel2016/bagtricks_R50
