@@ -37,4 +37,4 @@ _darcs
 .DS_Store
 
 # dataset
-datasets/
+/datasets
